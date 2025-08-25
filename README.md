@@ -29,10 +29,12 @@
 <a href="https://www.facebook.com/share/1DQdcJ8yaj/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulsara dissanayaka" height="30" width="40" />
   </a>
-   <a href="https://instagram.com/dulzz_dizzanayaka" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="dulzz_dizzanayaka" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dulsara dissanayaka" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="dulsara dissanayaka" height="30" width="40" /></a><a href="https://www.youtube.com/c/dulsara dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulsara dissanayaka" height="30" width="40" /></a>
+   
+<a href="https://linkedin.com/in/dulsara-dissanaya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="dulsara dissanayaka" height="30" width="40" />
+</a>
+  
+<a href="https://www.youtube.com/c/dulsara dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulsara dissanayaka" height="30" width="40" />
+</a>
   
 </p>
 
